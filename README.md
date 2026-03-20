@@ -1,6 +1,7 @@
 <div align="center">
-![Header]
-  (https://capsule-render.vercel.app/api?type=waving&color=F4A460&height=200&section=header&text=Khaled%20Ben%20Ali&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tech-obsessed%20since%20age%2014%20%E2%80%94%2020%20years%20of%20hands-on%20experience%20across%20every%20layer%20of%20the%20stack%3A%20product%2C%20dev%2C%20security%2C%20growth%20%26%20sales.&descAlignY=55&descAlign=50)
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=F4A460&height=200&section=header&text=Khaled%20Ben%20Ali&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tech-obsessed%20since%20age%2014%20%E2%80%94%2020%20years%20of%20hands-on%20experience%20across%20every%20layer%20of%20the%20stack%3A%20product%2C%20dev%2C%20security%2C%20growth%20%26%20sales.&descAlignY=55&descAlign=50)
+
 </div>
 
 ---
